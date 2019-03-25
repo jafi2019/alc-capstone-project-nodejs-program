@@ -1,0 +1,25 @@
+{
+  "name": "commenting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commentmanage.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jafi2019/alc-capstone-project-nodejs-program"
+  },
+  "author": "Japheth Habinsuti N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jafi2019/alc-capstone-project-nodejs-program/issues"
+  },
+  "homepage": "https://github.com/jafi2019/alc-capstone-project-nodejs-program#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "moment": "^2.24.0",
+    "mysql": "^2.16.0"
+  }
+}
